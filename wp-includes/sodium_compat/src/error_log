@@ -1,0 +1,60 @@
+[26-Oct-2024 12:11:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[26-Oct-2024 21:01:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[31-Oct-2024 11:44:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[05-Nov-2024 21:01:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[14-Nov-2024 09:57:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[14-Nov-2024 22:41:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[20-Nov-2024 00:29:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[15-Dec-2024 01:52:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[22-Dec-2024 15:18:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[18-Jan-2025 06:38:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[01-Feb-2025 21:07:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[28-Feb-2025 09:21:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[11-Mar-2025 22:46:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-include[13-Apr-2025 16:37:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[13-Apr-2025 16:58:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9
+[19-Apr-2025 17:41:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/File.php on line 9

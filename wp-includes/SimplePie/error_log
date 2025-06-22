@@ -1,0 +1,20 @@
+[25-Oct-2024 18:17:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/SimplePie/Core.php on line 53
+[26-Oct-2024 12:00:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/SimplePie/Core.php on line 53
+[26-Oct-2024 20:52:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/SimplePie/Core.php on line 53
+[31-Oct-2024 11:36:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/SimplePie/Core.php on line 53
+[05-Nov-2024 20:54:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/SimplePie/Core.php on line 53

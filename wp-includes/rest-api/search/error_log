@@ -1,0 +1,228 @@
+[26-Oct-2024 12:10:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[26-Oct-2024 12:10:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[26-Oct-2024 12:10:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[26-Oct-2024 21:00:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[26-Oct-2024 21:00:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[26-Oct-2024 21:00:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[31-Oct-2024 11:44:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[31-Oct-2024 11:44:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[31-Oct-2024 11:44:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[05-Nov-2024 21:01:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[05-Nov-2024 21:01:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[05-Nov-2024 21:01:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[14-Nov-2024 10:04:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[14-Nov-2024 10:04:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[14-Nov-2024 10:04:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[14-Nov-2024 22:41:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[14-Nov-2024 22:41:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[14-Nov-2024 22:41:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Nov-2024 00:37:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Nov-2024 00:37:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Nov-2024 08:42:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[15-Dec-2024 01:51:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[15-Dec-2024 01:51:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[15-Dec-2024 01:51:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[15-Dec-2024 02:06:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[15-Dec-2024 02:06:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[15-Dec-2024 02:06:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[17-Dec-2024 00:12:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[17-Dec-2024 00:12:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[17-Dec-2024 00:12:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[22-Dec-2024 15:15:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[22-Dec-2024 15:15:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[22-Dec-2024 15:15:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[18-Jan-2025 06:34:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[18-Jan-2025 06:34:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[18-Jan-2025 06:34:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Feb-2025 21:05:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Feb-2025 21:05:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Feb-2025 21:05:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[16-Feb-2025 13:07:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[16-Feb-2025 13:07:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[16-Feb-2025 13:07:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[28-Feb-2025 09:18:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[28-Feb-2025 09:18:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Feb-2025 09:18:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[11-Mar-2025 22:44:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[11-Mar-2025 22:44:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[11-Mar-2025 22:45:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[13-Apr-2025 16:36:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[13-Apr-2025 16:36:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[13-Apr-2025 16:36:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[13-Apr-2025 16:56:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[13-Apr-2025 16:56:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[13-Apr-2025 16:56:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[19-Apr-2025 17:33:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[19-Apr-2025 17:33:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[19-Apr-2025 17:34:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17

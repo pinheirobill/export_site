@@ -1,0 +1,196 @@
+[14-Nov-2024 09:58:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[14-Nov-2024 09:58:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[14-Nov-2024 09:58:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[14-Nov-2024 09:58:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[14-Nov-2024 09:58:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HSalsa20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10
+[14-Nov-2024 09:58:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[14-Nov-2024 09:58:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[14-Nov-2024 09:58:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[14-Nov-2024 09:58:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[14-Nov-2024 09:59:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[14-Nov-2024 09:59:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[14-Nov-2024 09:59:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[14-Nov-2024 09:59:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[20-Nov-2024 14:46:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[20-Nov-2024 14:46:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[20-Nov-2024 14:46:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[20-Nov-2024 14:46:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[20-Nov-2024 14:46:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[20-Nov-2024 14:46:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[20-Nov-2024 14:46:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[20-Nov-2024 14:46:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[20-Nov-2024 14:46:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[15-Dec-2024 01:52:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[15-Dec-2024 01:52:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[15-Dec-2024 01:52:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[15-Dec-2024 01:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[15-Dec-2024 01:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[15-Dec-2024 01:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[15-Dec-2024 01:52:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[15-Dec-2024 01:52:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[15-Dec-2024 01:52:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[15-Dec-2024 01:52:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[15-Dec-2024 01:52:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[15-Dec-2024 01:52:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[15-Dec-2024 01:52:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HSalsa20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10
+[13-Apr-2025 16:58:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[13-Apr-2025 16:58:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[13-Apr-2025 16:58:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[13-Apr-2025 16:58:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[13-Apr-2025 16:58:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[13-Apr-2025 16:58:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[13-Apr-2025 16:58:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[13-Apr-2025 16:58:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[13-Apr-2025 16:58:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[13-Apr-2025 16:58:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[13-Apr-2025 16:58:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[13-Apr-2025 16:58:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[13-Apr-2025 16:58:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HSalsa20" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10

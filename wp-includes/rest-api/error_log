@@ -1,0 +1,92 @@
+[25-Oct-2024 18:18:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[26-Oct-2024 12:09:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[26-Oct-2024 20:59:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[31-Oct-2024 11:37:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[05-Nov-2024 20:55:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[14-Nov-2024 10:04:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[14-Nov-2024 22:35:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[20-Nov-2024 00:36:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[20-Nov-2024 08:42:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[09-Dec-2024 16:30:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[15-Dec-2024 01:50:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[15-Dec-2024 02:06:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[17-Dec-2024 00:11:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[22-Dec-2024 15:10:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[18-Jan-2025 06:27:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[01-Feb-2025 21:01:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[16-Feb-2025 13:05:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[28-Feb-2025 09:15:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[01-Mar-2025 03:09:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[11-Mar-2025 22:42:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[13-Apr-2025 16:34:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[19-Apr-2025 17:22:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[07-May-2025 10:51:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/rest-api/class-wp-rest-response.php on line 17

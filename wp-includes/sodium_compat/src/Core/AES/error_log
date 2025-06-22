@@ -1,0 +1,20 @@
+[14-Nov-2024 09:57:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_AES_KeySchedule" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core/AES/Expanded.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core/AES/Expanded.php on line 10
+[20-Nov-2024 00:29:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_AES_KeySchedule" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core/AES/Expanded.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core/AES/Expanded.php on line 10
+[20-Nov-2024 08:39:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_AES_KeySchedule" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core/AES/Expanded.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core/AES/Expanded.php on line 10
+[20-Nov-2024 14:47:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_AES_KeySchedule" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core/AES/Expanded.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core/AES/Expanded.php on line 10
+[15-Dec-2024 01:51:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_AES_KeySchedule" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core/AES/Expanded.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/sodium_compat/src/Core/AES/Expanded.php on line 10

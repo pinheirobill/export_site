@@ -1,0 +1,64 @@
+[14-Nov-2024 10:06:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php on line 25
+[14-Nov-2024 10:06:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[15-Dec-2024 01:27:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php on line 25
+[15-Dec-2024 01:27:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[15-Dec-2024 02:06:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php on line 25
+[15-Dec-2024 02:06:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[16-Dec-2024 23:54:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php on line 25
+[16-Dec-2024 23:54:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[17-Dec-2024 00:11:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php on line 25
+[17-Dec-2024 00:11:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[16-Feb-2025 12:28:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php on line 25
+[16-Feb-2025 12:28:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[16-Feb-2025 13:05:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php on line 25
+[16-Feb-2025 13:05:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[13-Apr-2025 16:42:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Curl.php on line 25
+[13-Apr-2025 16:42:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Transport/Fsockopen.php on line 25

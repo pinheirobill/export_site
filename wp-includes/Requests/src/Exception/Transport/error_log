@@ -1,0 +1,28 @@
+[14-Nov-2024 10:05:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17
+[15-Dec-2024 01:25:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17
+[15-Dec-2024 02:05:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17
+[16-Dec-2024 23:54:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17
+[17-Dec-2024 00:11:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17
+[16-Feb-2025 12:27:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17
+[16-Feb-2025 13:04:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception\Transport" not found in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/por06631/forumbrasilexport.com.br/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17
